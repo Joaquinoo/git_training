@@ -3,3 +3,16 @@ Soy Joaquín Laguzzi, el juakino para los amigos.
 Estoy en el taller de Linux, el día miércoles 7 de Febrero de 2024.
 
 Ahora el profe está hablando, y voy por mi tercer push :p
+
+Voy a entrar por SSH a tirar un ASCII art por acá:
+                \||/
+                |  @___oo
+      /\  /\   / (__,,,,|
+     ) /^\) ^\/ _)
+     )   /^\/   _)
+     )   _ /  / _)
+ /\  )/\/ ||  | )_)
+<  >      |(,,) )__)
+ ||      /    \)___)\
+ | \____(      )___) )___
+  \______(_______;;; __;;;
